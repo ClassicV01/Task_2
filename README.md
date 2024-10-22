@@ -1,6 +1,5 @@
 # Task_2
-Task 2 B1  
-Использованные библиотеки в приложении : ExcelDataReader, Microsoft.Data.SqlClient;  
-Всего 3 варанта БД: 1 вариант - хранить все записи в таблице под скрином Вариант БД 1, где для каждого класса создать отдельную таблицу  
-2 вариант - хранить по отдельности данные о входящем сальдо, исходящеи и оборотах для каждого класса  
-3 вариант - хранить все записи в таблице под скрином Вариант БД 3 с обозначением классов, то есть название класса в 1 строке а затем его значения, такой вариант используется в приложении при записи и чтении из БД
+Desktop application which:
+1. Loading data from an Excel file of this format into a DB
+2. View a list of downloaded files
+3. Displaying data from the DB by visual analogy with an excel file for each of the downloaded files
